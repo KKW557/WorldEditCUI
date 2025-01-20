@@ -22,7 +22,7 @@ neoforge = { module = "net.neoforged:neoforge", version = "21.4.38-beta"}
 viafabricplus-api = { module = "de.florianmichael:ViaFabricPlus", version.ref = "viafabricplus" }
 viaversion = { module = "com.viaversion:viaversion-common", version = "5.0.5" }
 vineflower = { module = "org.vineflower:vineflower", version.ref = "vineflower" }
-worldedit = { module = "com.sk89q.worldedit:worldedit-fabric-mc1.21", version = "7.3.7" }
+worldedit = { module = "com.sk89q.worldedit:worldedit-fabric-mc1.21", version = "7.3.10" }
 
 [plugins]
 architecturyPlugin = { id = "architectury-plugin", version = "3.4.160" }
